@@ -29,9 +29,9 @@ How to do sprint planning which is the team's planning of next iteration.
 Page 43-71, 81-86 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
 
-## Day 4 Scrum tools
-Presentation and work with various Scrum tools.
+## Day 4 Scrum tools and work with Product Backlog
+Introduction to Scrum tools + group work with Product Backlog grooming & prioritization.
  
 
 ## Day 5
-Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
+Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
