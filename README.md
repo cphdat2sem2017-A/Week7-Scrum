@@ -3,6 +3,8 @@
 ## Day 1 - Overview of Scrum
 How to work with agile, iterative software development using Scrum. Why, what and how?
 
+Make team contracts.
+
 ### Readings:
 Page 7-40 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
