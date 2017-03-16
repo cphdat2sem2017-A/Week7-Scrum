@@ -9,7 +9,7 @@ Make team contracts.
 Page 7-40 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
 ### Exercises:
-Coming up!
+Establish team contract for Fog project
 
 ## Day 2 - User Stories and Product Backlog
 How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization.
