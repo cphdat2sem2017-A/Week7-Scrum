@@ -1,7 +1,7 @@
 # Week7-Scrum
 
 ## Day 1 - Overview of Scrum
-How to work with agile, iterative software development using Scrum. Why, what and how?
+How to work with agile, iterative software development using Scrum. Scrum is a management framework that describes how teams can work together to develop a product. So we will look at Why, what and how?
 
 Make team contracts.
 
