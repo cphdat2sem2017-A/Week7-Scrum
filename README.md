@@ -7,7 +7,7 @@ How to work with agile, iterative software development using Scrum. We will look
 Make team contracts.
 
 ### Readings:
-Page 7-40 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+Pages (page numbers at the bottom of each page) 1-13 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
 ### Exercises:
 Establish team contract for Fog project
@@ -17,8 +17,8 @@ How to define requirements as user stories and how to build a Product Backlog co
 
 
 ### Readings:
-Page 7-40 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
-
+Page 14-50 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+Video: http://blog.crisp.se/author/henrikkniberg
 
 
 ### Exercises:
@@ -29,7 +29,7 @@ How to do sprint planning which is the team's planning of next iteration.
 
 ### Readings
 
-Page 43-71, 81-86 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+Page 51-68, 75-92 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
 
 ## Day 4 Scrum tools and work with Product Backlog
