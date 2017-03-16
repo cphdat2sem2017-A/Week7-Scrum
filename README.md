@@ -18,6 +18,7 @@ How to define requirements as user stories and how to build a Product Backlog co
 
 ### Readings:
 Page 14-50 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+
 Video: http://blog.crisp.se/author/henrikkniberg
 
 
