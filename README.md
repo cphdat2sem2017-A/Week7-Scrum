@@ -23,19 +23,27 @@ Video: http://blog.crisp.se/author/henrikkniberg
 
 
 ### Exercises:
-Poker planning exercises coming up!
+Exercise will be handed out in class.
 
 ## Day 3 Sprints and Sprint Backlog
-How to do sprint planning which is the team's planning of next iteration.
+How to do sprint planning, i.e. the planning of user stories for the next iteration.
 
 ### Readings
 
 Page 51-68, 75-92 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
+### Exercises:
+Poker planning exercise coming up!
 
 ## Day 4 Scrum tools and work with Product Backlog
 Introduction to Scrum tools + group work with Product Backlog grooming & prioritization.
  
+### Scrum tool demo:
+Trello: Alexander
+
+ScrumWise: Kristian
+
+Waffle: Kasper
 
 ## Day 5
 Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
