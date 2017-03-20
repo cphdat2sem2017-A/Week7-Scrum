@@ -46,4 +46,6 @@ ScrumWise: Kristian
 Waffle: Kasper
 
 ## Day 5
-Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
+Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. 
+
+This is done group wise with teachers / Alpha Solutions. See review plan in repo.
