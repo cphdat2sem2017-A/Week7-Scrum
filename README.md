@@ -22,7 +22,7 @@ Page 14-50 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 Video: http://blog.crisp.se/author/henrikkniberg
 
 
-### Exercises:
+### Story Workshop
 Exercise will be handed out in class.
 
 ## Day 3 Sprints and Sprint Backlog
