@@ -33,7 +33,9 @@ How to do sprint planning, i.e. the planning of user stories for the next iterat
 Page 51-68, 75-92 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
 ### Exercises:
-Poker planning exercise coming up!
+Unit testing with JUnit
+
+Work on Product Backlog for Fog project + Team Contract
 
 ## Day 4 Scrum tools and work with Product Backlog
 Introduction to Scrum tools + group work with identifying user stories for Product Backlog, including prioritization.
