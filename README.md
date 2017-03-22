@@ -38,7 +38,7 @@ Unit testing with JUnit
 Work on Product Backlog for Fog project + Team Contract
 
 ## Day 4 Scrum tools and work with Product Backlog
-Introduction to Scrum tools + group work with identifying user stories for Product Backlog, including prioritization.
+Introduction to Scrum tools + group work with identifying user stories for Product Backlog so they are ready for prioritization Friday.
  
 ### Scrum tool demo:
 Trello: Alexander
