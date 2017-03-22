@@ -41,6 +41,8 @@ Work on Product Backlog for Fog project + Team Contract
 Introduction to Scrum tools + group work with identifying user stories for Product Backlog so they are ready for prioritization Friday.
  
 ### Scrum tool demo:
+Excel: Tine
+
 Trello: Alexander
 
 ScrumWise: Kristian
