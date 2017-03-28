@@ -57,7 +57,7 @@ Introduction to Scrum tools + group work with identifying and writing  user stor
 
 Use story template as specified for Day 2. Also remember to write acceptance criteria/how to demo! Remember to look at stories from user perspective when writing the stories. 
 
-Remember the Triangle of Scope, Priority and Estimation. They all influence each other. You cannot estimate if you do not know the scope of a story (scope is derived from its description and acceptance criteria). The product owner cannot prioritize if he/she does not know the price (= estimation expressed in story points)
+Remember the Triangle of Scope, Priority and Estimation. They all influence each other. You cannot estimate if you do not know the scope of a story (scope is derived from communication with Product Ownmer, user story description and acceptance criteria). The product owner cannot prioritize if he/she does not know the price (= estimation expressed in story points)
 
 ### Scrum tool demo:
 Excel: Tine
@@ -68,7 +68,7 @@ ScrumWise: Kristian
 
 Waffle: Kasper
 
-I have gotten an academic license to ScrumWise with no limit on expiration date. Please send me an email with subject "scrum", name of group, all group member names and their email adresses.
+I have gotten an academic license to ScrumWise with no expiration date. Please send me an email with subject "scrum", name of group, all group member names and their email adresses.
 
 ## Day 5
 Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. 
