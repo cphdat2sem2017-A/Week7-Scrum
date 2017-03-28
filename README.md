@@ -68,7 +68,7 @@ ScrumWise: Kristian
 
 Waffle: Kasper
 
-I have gotten an academic license to ScrumWise with no limit on expiration date. Please send me an mail with subject "scrum", name of group, all group member names and email adresses.
+I have gotten an academic license to ScrumWise with no limit on expiration date. Please send me an email with subject "scrum", name of group, all group member names and their email adresses.
 
 ## Day 5
 Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. 
