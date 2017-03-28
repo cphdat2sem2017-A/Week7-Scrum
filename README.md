@@ -9,7 +9,7 @@ Make team contracts.
 ### Readings:
 Pages (page numbers at the bottom of each page) 1-13 in https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
 
-### Exercises:
+### Exercise:
 Establish team contract for Fog project
 
 ## Day 2 - User Stories and Product Backlog
@@ -39,7 +39,9 @@ How to do sprint planning, i.e. the planning of user stories for the next iterat
 Stories must be estimated by the team. Planning poker is an agile estimating and planning technique that is consensus based. Use either values like S, M, L, XXXL (not estimable) or values like 0, 1, 2, 3, 5, 8, 13, 20, 40 and 100. You can use app for this estimation activity or a deck of Planning Poker cards.  
 
 #### The Sprint Backlog
-In a sprint, highest priority stories are moved from Product Backlog to Sprint Backlog which is the Tea'ms own backlog. On a daily basis, team members move tasks from "Not check out" to "Checked out" to "Done". The team and Scrum master can monitor sprint progress  on Scrum Dash board and Burndown Chart.
+In a sprint, highest priority stories that fit with the velocity of the team are copied from Product Owner's Product Backlog to the Team's Sprint Backlog. 
+
+On a daily basis, team members move tasks from "Not check out" to "Checked out" to "Done". The team and Scrum master can monitor sprint progress on Scrum Dash board and Burndown Chart (see Scrum tools list for Day 4).
 
 ### Readings
 
